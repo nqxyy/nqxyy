@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="150" src="" />
+  <img height="90" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Wave Gif" />
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo" /></a>
-  <a href="https://youtube.com/your-channel"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube Logo" /></a>
+  <a href="https://linktr.ee/nqxyy"><img src="https://img.shields.io/static/v1?message=LinkTree&logo=linktree&label=&color=00d478&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo" /></a>
+  <a href="https://youtube.com/@nqxyy"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube Logo" /></a>
 
   <p align="center">
     <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
