@@ -21,7 +21,7 @@
   <h3>👀 ———| About Me & My Hobbies |——— 👀</h3>
   
   <p>
-    I am 16, and a Scripter/Developer from the U.S. I go by NQXY or Noxy.<br><br>
+    I am 16, and a Scripter/Developer from the U.S. I go by Noxy.<br><br>
     • 🎃 Currently working on multiple private projects.<br>
     • 📑 5+ years of experience in developing/marketing<br>
     • ❤️ In my free time, I game, play guitar and draw<br><br>
