@@ -1,69 +1,48 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+  <img height="150" src="" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-</div>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo" /></a>
+  <a href="https://youtube.com/your-channel"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube Logo" /></a>
 
-###
+  <p align="center">
+    <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  </p>
+</div>
 
 <div align="center">
-  <img src="./images/mybanner.png" />
+  <img src="./images/NoxyBanner.png" style="border-radius: 15px;" alt="Noxy Banner" />
 </div>
-
-###
+<p align="center" style="font-size: small; color: #262c36;">(made by me)</p>
 
 <h1 align="center">✨ Welcome, fellow traveler! ✨</h1>
 
-###
+<h3>👀 ———| About Me & My Hobbies |——— 👀</h3>
 
-<h3 align="left">👀 ———| About me & My Hobbies |——— 👀</h3>
-
-###
-
-<p align="left">
-  I am a 16-year-old Scripter/Developer from the U.S. You can call me NQXY or Noxy.<br><br>
-  • 🎃 As of rn, I'm currently working on multiple private projects of my own or for a team.<br>
-  • 📑 I have 5+ years in experience prior to coding, developing, marketing, growing projects and etc...<br>
-  • ❤️ Away from my part-time job/s I like gaming (quite obvious lmao), playing guitar and cooking!<br>
+<p>
+  I am 16, and a Scripter/Developer from the U.S. I go by NQXY or Noxy.<br><br>
+  • 🎃 Currently working on multiple private projects.<br>
+  • 📑 5+ years of experience in coding, developing, marketing, and growing projects.<br>
+  • ❤️ In my free time, I enjoy gaming, playing guitar, and cooking!<br><br>
+  • 📨 Where to find me: @soulsnsins (Discord)
 </p>
 
-###
+<h3>✨ ———| My Skills & What I Use |——— 🌟</h3>
 
-<h3 align="left">✨ ———| My Skills & What I Use |——— 🌟</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij" />
-  <img width="12" />
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3 Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ Logo" />
 </div>
 
-###
-
-<h3 align="left">📈 ———| My Stats/How Much I've done |——— 📈 </h3>
-
-###
+<h3>📈 ———| My Stats/How Much I've Done |——— 📈</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nqxyy&theme=meta-light&hide_border=true&border_radius=15" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=nqxyy&theme=meta-light&hide_border=true&border_radius=15" height="220" alt="Streak Graph" />
 </div>
