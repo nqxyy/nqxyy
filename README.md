@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://linktr.ee/nqxyy"><img src="https://img.shields.io/static/v1?message=LinkTree&logo=linktree&label=&color=00d478&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo" /></a>
+  <a href="https://linktr.ee/nqxyy"><img src="./images/LinktreeBadge.png" height="25" alt="LinkedIn Logo" /></a>
   <a href="https://youtube.com/@nqxyy"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube Logo" /></a>
 
   <p align="center">
