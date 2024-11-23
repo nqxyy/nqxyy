@@ -3,18 +3,17 @@
 </div>
 
 <div align="center">
-  <a href="https://linktr.ee/nqxyy"><img src="./images/LinktreeBadge.png" height="25" alt="LinkedIn Logo" /></a>
-  <a href="https://youtube.com/@nqxyy"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube Logo" /></a>
+  <a href="https://linktr.ee/nqxyy"><img src="./images/linktreeBadge.png" height="30" alt="Linktree Logo" /></a>
+  <a href="https://youtube.com/@nqxyy"><img src="./images/youtubeBadge.png" height="30" alt="YouTube Logo" /></a>
 
   <p align="center">
-    <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+    <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="./images/bmacBadge.png" alt="Buy Me A Coffee" height="45" width="213"></a>
   </p>
 </div>
 
 <div align="center">
   <img src="./images/NoxyBanner.png" style="border-radius: 15px;" alt="Noxy Banner" />
 </div>
-<p align="center" style="font-size: small; color: #262c36;">(made by me)</p>
 
 <h1 align="center">✨ Welcome, fellow traveler! ✨</h1>
 
