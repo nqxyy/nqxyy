@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="./images/NoxyBanner.png" style="border-radius: 15px;" alt="Noxy Banner" />
+  <img src="./images/NoxyBannerr.png" alt="Noxy Banner" />
 </div>
 
 <h1 align="center">✨ Welcome, fellow traveler! ✨</h1>
