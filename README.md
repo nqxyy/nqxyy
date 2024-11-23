@@ -7,7 +7,7 @@
   <a href="https://youtube.com/@nqxyy"><img src="./images/youtubeBadge.png" height="30" alt="YouTube Logo" /></a>
 
   <p align="center">
-    <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="./images/bmacBadge.png" alt="Buy Me A Coffee" height="45" width="213"></a>
+    <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="./images/bmacBadge.png" alt="Buy Me A Coffee" height="45" width="175"></a>
   </p>
 </div>
 
