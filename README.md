@@ -22,9 +22,9 @@
   
   <p>
     I am 16, and a Scripter/Developer from the U.S. I go by Noxy.<br><br>
-    • 🎃 Currently working on multiple private projects.<br>
+    • 🎃 Currently working on multiple private works<br>
     • 📑 5+ years of experience in developing/marketing<br>
-    • ❤️ In my free time, I game, play guitar and draw<br><br>
+    • ❤️ I like focusing on my upcoming projects such as TicketTweaks<br><br>
     • 📨 Where to find me: @soulsnsins (Discord)
   </p>
   
