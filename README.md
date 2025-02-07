@@ -15,7 +15,7 @@
   <img src="./images/NoxyBannerr.png" alt="Noxy Banner" />
 </div>
 
-<h1 align="center">✨ Welcome, fellow traveler! ✨</h1>
+<h1 align="center">✨ Welcome, here's a lil info on me! ✨</h1>
 
 <div align="center">
   <h3>👀 ———| About Me & My Hobbies |——— 👀</h3>
